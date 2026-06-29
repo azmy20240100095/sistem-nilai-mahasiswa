@@ -953,14 +953,3 @@ Untuk pengembangan lebih lanjut, dapat ditambahkan:
    https://www.w3.org/WAI/WCAG21/quickref/
 
 ---
-
-**Nama:** [Nama Lengkap Anda]  
-**NIM:** [NIM Anda]  
-**Kelas:** [Kelas Anda]  
-**Mata Kuliah:** Pengembangan Aplikasi Basis Data  
-**Dosen:** [Nama Dosen]  
-**Tanggal:** 27 Juni 2026
-
----
-
-**Made with ❤️ for Academic Purpose**
