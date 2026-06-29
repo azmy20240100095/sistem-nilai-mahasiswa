@@ -121,53 +121,6 @@ sistem-nilai-mahasiswa/
 └── .gitignore                     # Git ignore file
 ```
 
-## 🚀 Cara Instalasi
-
-### ⚡ Quick Start (5 Menit)
-Ingin cepat? Ikuti **[QUICK-START.md](QUICK-START.md)**
-
-### 📖 Detail Instalasi
-Butuh panduan lengkap? Ikuti **[INSTALLATION.md](INSTALLATION.md)**
-
-### Prasyarat
-- XAMPP (Apache + MySQL + PHP)
-- Web Browser (Chrome, Firefox, Edge, dll)
-- Text Editor/IDE (VS Code, Sublime, dll)
-
-### Langkah-langkah Instalasi
-
-#### 1. Download & Extract
-```bash
-# Clone atau download repository
-git clone https://github.com/username/sistem-nilai-mahasiswa.git
-
-# Atau extract file ZIP ke folder htdocs
-# Lokasi: C:\xampp\htdocs\sistem-nilai-mahasiswa
-```
-
-#### 2. Import Database
-1. Buka XAMPP Control Panel
-2. Start **Apache** dan **MySQL**
-3. Buka browser dan akses: `http://localhost/phpmyadmin`
-4. Klik tab **Import**
-5. Pilih file: `database/sistem_nilai.sql`
-6. Klik **Go**
-7. Database `sistem_nilai` akan terbuat otomatis dengan sample data
-
-#### 3. Konfigurasi Database (Opsional)
-Jika menggunakan credential database yang berbeda, edit file `config/database.php`:
-
-```php
-define('DB_HOST', 'localhost');  // Host database
-define('DB_USER', 'root');       // Username database
-define('DB_PASS', '');           // Password database
-define('DB_NAME', 'sistem_nilai'); // Nama database
-```
-
-#### 4. Jalankan Aplikasi
-1. Buka browser
-2. Akses: `http://localhost/sistem-nilai-mahasiswa`
-3. Aplikasi siap digunakan!
 
 ## 📱 Cara Penggunaan
 
