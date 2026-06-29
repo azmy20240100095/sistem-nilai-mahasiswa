@@ -5,10 +5,10 @@
 
 **Mata Kuliah:** Pengembangan Aplikasi Basis Data  
 **Judul Proyek:** Sistem Nilai Mahasiswa  
-**Nama Mahasiswa:** [Nama Lengkap Anda]  
-**NIM:** [NIM Anda]  
-**Kelas:** [Kelas Anda]  
-**Dosen Pengampu:** [Nama Dosen]  
+**Nama Mahasiswa:** Azmy Hanif Abdurrahman 
+**NIM:** 20240100095
+**Kelas:** A
+**Dosen Pengampu:** Ibu Latifa Iriani 
 **Tanggal:** 27 Juni 2026
 
 ---
