@@ -1,0 +1,73 @@
+# ============================================
+# Git Ignore - Sistem Nilai Mahasiswa
+# ============================================
+
+# PHP
+*.log
+*.cache
+error_log
+debug.log
+
+# Database
+*.sql~
+*.backup
+
+# IDE & Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Environment
+.env
+.env.local
+config/database_local.php
+
+# Uploads (jika ada)
+uploads/*
+!uploads/.gitkeep
+
+# Exports (jika ada)
+exports/*
+!exports/.gitkeep
+
+# Logs
+logs/*
+!logs/.gitkeep
+
+# Dependencies (jika pakai Composer)
+vendor/
+composer.lock
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows
+Desktop.ini
+$RECYCLE.BIN/
+
+# PHPStorm
+.idea/
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace

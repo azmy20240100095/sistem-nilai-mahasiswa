@@ -1,0 +1,82 @@
+═══════════════════════════════════════════════════════════
+  QUICK REFERENCE - GIT COMMANDS UNTUK AZMY
+═══════════════════════════════════════════════════════════
+
+📍 BUKA COMMAND PROMPT DI FOLDER:
+   1. Windows Explorer → folder proyek
+   2. Klik address bar → ketik "cmd" → Enter
+
+═══════════════════════════════════════════════════════════
+  PUSH PERTAMA KALI (COPY 1 PER 1)
+═══════════════════════════════════════════════════════════
+
+git init
+git add .
+git commit -m "Initial commit: Sistem Nilai Mahasiswa - Azmy Hanif Abdurrahman"
+git branch -M main
+git remote add origin https://github.com/USERNAME-KAMU/sistem-nilai-mahasiswa.git
+git push -u origin main
+
+⚠️  GANTI USERNAME-KAMU dengan username GitHub kamu!
+
+═══════════════════════════════════════════════════════════
+  UPDATE SETELAH EDIT FILE
+═══════════════════════════════════════════════════════════
+
+git add .
+git commit -m "docs: update informasi pribadi"
+git push
+
+═══════════════════════════════════════════════════════════
+  CEK STATUS
+═══════════════════════════════════════════════════════════
+
+git status          → Lihat file yang berubah
+git remote -v       → Lihat URL repository
+git log --oneline   → Lihat history commit
+
+═══════════════════════════════════════════════════════════
+  KALAU ERROR
+═══════════════════════════════════════════════════════════
+
+Error: "failed to push"
+→ git pull origin main --allow-unrelated-histories
+→ git push
+
+Error: "Permission denied"
+→ git remote set-url origin https://github.com/USERNAME/sistem-nilai-mahasiswa.git
+→ git push
+
+Error: "Authentication failed"
+→ Pakai Personal Access Token (bukan password akun!)
+→ Atau install GitHub Desktop
+
+═══════════════════════════════════════════════════════════
+  KONFIGURASI GIT (SEKALI AJA)
+═══════════════════════════════════════════════════════════
+
+git config --global user.name "Azmy Hanif Abdurrahman"
+git config --global user.email "emailkamu@gmail.com"
+
+⚠️  Ganti emailkamu@gmail.com dengan email GitHub!
+
+═══════════════════════════════════════════════════════════
+  LINK PENTING
+═══════════════════════════════════════════════════════════
+
+Git Download: https://git-scm.com/download/win
+GitHub: https://github.com
+GitHub Desktop: https://desktop.github.com
+
+═══════════════════════════════════════════════════════════
+  PANDUAN LENGKAP
+═══════════════════════════════════════════════════════════
+
+Baca file: PANDUAN_AZMY.md (khusus untuk Azmy!)
+
+═══════════════════════════════════════════════════════════
+
+Dibuat untuk: Azmy Hanif Abdurrahman
+Tanggal: 28 Juni 2026
+
+Good luck! 🚀
