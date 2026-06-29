@@ -6,10 +6,10 @@
 **Mata Kuliah:** Pengembangan Aplikasi Basis Data  
 **Judul Proyek:** Sistem Nilai Mahasiswa  
 **Nama Mahasiswa:** Azmy Hanif Abdurrahman 
-**NIM:** 20240100095
-**Kelas:** A
-**Dosen Pengampu:** Ibu Latifa Iriani 
-**Tanggal:** 27 Juni 2026
+**NIM:**  20240100095
+**Kelas:**  A
+**Dosen Pengampu:**  Ibu Latifa Iriani 
+**Tanggal:**  27 Juni 2026
 
 ---
 
