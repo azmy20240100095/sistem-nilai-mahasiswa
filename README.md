@@ -5,7 +5,6 @@ Aplikasi web untuk manajemen data nilai mahasiswa yang dibangun dengan **PHP Nat
 ## 🔗 Link Repository
 
 **GitHub:** [https://github.com/username/sistem-nilai-mahasiswa](https://github.com/username/sistem-nilai-mahasiswa)  
-*(Ganti `username` dengan username GitHub Anda)*
 
 **Demo Online:** (Opsional - jika di-deploy)
 
