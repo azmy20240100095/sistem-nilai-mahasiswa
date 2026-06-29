@@ -243,24 +243,22 @@ sistem-nilai-mahasiswa/
 
 ## 👨‍💻 Developer
 
-**Nama:** [Nama Anda]  
-**NIM:** [NIM Anda]  
-**Kelas:** [Kelas Anda]  
+**Nama:** Azmy Hanif Abdurrahman  
+**NIM:** 20240100095 
+**Kelas:** A 
 **Mata Kuliah:** Pengembangan Aplikasi Basis Data  
-**Dosen:** [Nama Dosen]
+**Dosen:** Ibu Latifah Iriani
 
 ## 📄 Lisensi
 
-Project ini dibuat untuk keperluan akademik (UAS).
+Project ini dibuat untuk keperluan akademik (UAS) - Universitas Siber Muhammadiyah Yogyakarta.
 
 ## 📞 Kontak
 
 Jika ada pertanyaan atau issue, silakan hubungi:
-- Email: [email@example.com]
-- GitHub: [github.com/username]
+- Email:    azmy20240100095@sibermu.ac.id
+- GitHub:   https://github.com/azmy20240100095
 
 ---
 
 ⭐ **Star** repository ini jika bermanfaat!
-
-Made with ❤️ for Academic Purpose
