@@ -11,7 +11,7 @@ Aplikasi web untuk manajemen data nilai mahasiswa yang dibangun dengan **PHP Nat
 
 ## 📋 Deskripsi Proyek
 
-Sistem Nilai Mahasiswa adalah aplikasi berbasis web yang memungkinkan admin untuk mengelola data mahasiswa, mata kuliah, dan nilai secara efisien. Aplikasi ini dibuat sebagai proyek UAS mata kuliah Pengembangan Aplikasi Basis Data.
+Sistem Nilai Mahasiswa adalah aplikasi berbasis web yang memungkinkan admin untuk mengelola data mahasiswa, mata kuliah, dan nilai secara efisien. Aplikasi ini dibuat sebagai proyek UAS mata kuliah Pengembangan Aplikasi Basis Data - Universitas Siber Muhammadiyah Yogyakarta.
 
 ## ✨ Fitur Utama
 
