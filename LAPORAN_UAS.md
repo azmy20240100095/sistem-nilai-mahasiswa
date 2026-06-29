@@ -785,7 +785,7 @@ ini_set('session.use_strict_mode', 1);
 
 ### 7.1 Repository GitHub
 
-**Link Repository:** [https://github.com/username/sistem-nilai-mahasiswa](https://github.com/username/sistem-nilai-mahasiswa)
+**Link Repository:** https://github.com/azmy20240100095/sistem-nilai-mahasiswa
 
 *(Ganti `username` dengan username GitHub Anda)*
 
